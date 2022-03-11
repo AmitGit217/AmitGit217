@@ -7,4 +7,5 @@ I'm Amit Bar-Gil from Israel, and I'm a FullStack/Front-End developer.
 - I love playing music, guitar, violin and piano. My favorite genre is classical music.
 - I love reading a lot of books about Neuroscience, Computer-science and psychology.
 - I'm Dan-2 in Traditional Shotokan Karate.
-If you want to now a bit more about me you can get my linkedin profile here => [Linkedin__Profile](https://www.linkedin.com/in/amitbg/)
+**Links**
+- If you want to now a bit more about me you can get my linkedin profile here => [Linkedin__Profile](https://www.linkedin.com/in/amitbg/)
