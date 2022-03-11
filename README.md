@@ -13,9 +13,5 @@ I'm Amit Bar-Gil from Israel, and I'm a FullStack/Front-End developer.
 - [Linkedin__Profile](https://www.linkedin.com/in/amitbg/)
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitGit217)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitGit217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitGit217)](https://github.com/anuraghazra/github-readme-stats)
