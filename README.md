@@ -10,7 +10,7 @@ I'm Amit Bar-Gil from Israel, and I'm a FullStack/Front-End developer.
 
 **Links**
 
-- [Linkedin__Profile](https://www.linkedin.com/in/amitbg/)
+- [Linkedin Profile](https://www.linkedin.com/in/amitbg/)
 
 
 
