@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitgit217&show_icons=true&locale=en&layout=compact" alt="amitgit217" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitgit217&show_icons=true&locale=en" alt="amitgit217" /></p>
