@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Bar-Gil</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
-- 🔭 I’m currently working on [Around the U.S](https://github.com/AmitGit217/web_project_4)
+- 🔭 I’m currently working on [Around the U.S-React version](https://github.com/AmitGit217/around-react)
 
 - 🌱 I’m currently learning **Full Stack Development by Practicum**
 
