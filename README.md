@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgit217&label=Profile%20views&color=0091ff&style=plastic" alt="amitgit217" /> </p>
 
-- 🔭 I’m currently working on [Around the U.S - React version](https://github.com/AmitGit217/around-react)
+- 🔭 I’m currently working on [Around the U.S - Back End](https://github.com/AmitGit217/around-express)
 
 - 🌱 I’m currently learning **Full Stack Development by Practicum**
 
