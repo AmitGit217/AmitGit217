@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amit217@yandex.com**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1Z-h567ZW0Dlw-eLFxTDNsOw2rCv_ntS6/edit?usp=sharing&ouid=107111604304848457478&rtpof=true&sd=true
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1Z-h567ZW0Dlw-eLFxTDNsOw2rCv_ntS6/edit?usp=sharing&ouid=107111604304848457478&rtpof=true&sd=true)
 
 - ⚡ Fun fact **George Costanza is my alter ego**
 
