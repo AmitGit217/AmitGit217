@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Amit Bar-Gil</h1>
-<h3 align="center">Full Stack Developer (MERN)</h3>
+<h3 align="center">Full Stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgit217&label=Profile%20views&color=0091ff&style=plastic" alt="amitgit217" /> </p>
 
-- 🔭 I’m currently working on [Around the U.S - full stack](https://github.com/AmitGit217/react-around-api-full)
+- 🔭 I’m currently working on [nest-api: back end CRUD application](https://github.com/AmitGit217/nest-api)
 
-- 🌱 I’m currently learning **Full Stack Development by Practicum**
+- 🌱 I’m currently learning **Full Stack web development at Practicum**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 💬 Ask me about **MERN development**
 
 - 📫 How to reach me **amit217@yandex.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1o8aP4RkzhvBsjDwm0d_-xjUt2kodsiZw/view?usp=sharing)
 
-- ⚡ Fun fact **George Costanza is my alter ego**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
