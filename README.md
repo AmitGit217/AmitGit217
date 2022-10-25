@@ -1,7 +1,7 @@
 ### <div align="center">I'm Amit Bar-Gil, a full stack web developer.</div>  
   
 
-- 🔭 I’m currently working on [Pocampus](https://github.com/AmitGit217/pocampus)  
+- 🔭 I’m currently working on [News Explorer](https://github.com/AmitGit217/news-explorer-full)  
   
 
 - 🌱 I’m currently learning Full Stack web development at Practicum  
