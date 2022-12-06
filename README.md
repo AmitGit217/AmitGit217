@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning [C++](https://github.com/AmitGit217/tutorial_cpp)  
   
 
-- 🌱 I’m currently learning Full Stack web development at Practicum  
+- 🌱 I’m currently working as a full stack developer at City Systems
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
