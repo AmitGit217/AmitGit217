@@ -1,7 +1,7 @@
 ### <div align="center">I'm Amit Bar-Gil, a full stack web developer.</div>  
   
 
-- 🔭 I’m currently learning [C++](https://github.com/AmitGit217/tutorial_cpp)  
+- 🔭 I’m currently learning [C++]
   
 
 - 🌱 I’m currently working as a full stack developer at City Systems
