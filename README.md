@@ -13,11 +13,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/amitbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbg" height="30" width="30" /></a>
-<a href="https://fb.com/profile.php?id=100080203024930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080203024930" height="30" width="30" /></a>
-<a href="https://instagram.com/amit_bargil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_bargil" height="30" width="30" /></a>
-<a href="https://medium.com/@amit222306a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amit222306a" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/amitbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbg" height="40" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100080203024930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080203024930" height="40" width="40" /></a>
+<a href="https://instagram.com/amit_bargil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_bargil" height="40" width="40" /></a>
+<a href="https://medium.com/@amit222306a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amit222306a" height="40" width="40" /></a>
 </p>
+
 
 <h3 align="center">Skills:</h3>
 
