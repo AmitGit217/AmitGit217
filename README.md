@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitgit217&label=Profile%20views&color=0e30b6&style=flat" alt="amitgit217" /> </p>
 
-- 🔭 I’m currently working on **Business licensing CRM for my company**
-- 🌱 I’m currently learning **Calculus AB at Khan Academy**
+- 🔭 I’m currently working on **Municipality control system software for my company**
 - 👯 I’m looking to collaborate on **Back-End, DevOps and Data-Science projects**
 - 📝 I regularly write articles on [https://medium.com/@amit222306a](https://medium.com/@amit222306a)
-- 💬 Ask me about **NestJs, Prisma, PostgreSQL, CI/CD, Python.**
+- 💬 Ask me about **NestJs, Prisma, PostgreSQL, CI/CD, Python, K8S, Docker**
 - 📫 How to reach me **amit217@yandex.com**
-- ⚡ Fun fact **I love surfing🏄**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
