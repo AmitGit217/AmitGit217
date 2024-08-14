@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Bar-Gil</h1>
-<h3 align="center">A passionate Back-end & DevOps Engineer from Israel</h3>
+<h3 align="center">A Passionate Back-End & DevOps Engineer from Israel</h3>
 
-I'm currently enhancing a **Municipality control system software** at my company, keen on collaborating on **Back-End, DevOps, and Data Science projects**.
+<p align="center">I'm currently enhancing a <strong>Municipality Control System Software</strong> at my company. I'm keen on collaborating on <strong>Back-End, DevOps, and Data Science projects</strong>.</p>
 
-Feel free to ask me about **NestJs, Prisma, PostgreSQL, CI/CD, Python, K8S, Docker** or reach out via **amit217@yandex.com**.
+<p align="center">Feel free to ask me about <strong>NestJS, Prisma, PostgreSQL, CI/CD, Python, K8S, Docker</strong> or reach out via <strong>amit217@yandex.com</strong>.</p>
 
 ### 🤝 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/amitbg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbg" height="30" width="30" /></a>&nbsp;
-  <a href="https://fb.com/profile.php?id=100080203024930"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/amitbg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;
   <a href="https://instagram.com/amit_bargil"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>&nbsp;
 </p>
 
