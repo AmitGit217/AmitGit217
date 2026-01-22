@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Bar-Gil</h1>
-<h3 align="center">A Passionate Back-End & DevOps Engineer from Israel</h3>
-
-<p align="center">I'm currently enhancing a <strong>Municipality Control System Software</strong> at my company. I'm keen on collaborating on <strong>Back-End, DevOps, and Data Science projects</strong>.</p>
+<h3 align="center">A Passionate Back-End & DevOps Engineer from Israel living in Spain</h3>
 
 <p align="center">Feel free to ask me about <strong>NestJS, Prisma, PostgreSQL, CI/CD, Python, K8S, Docker</strong> or reach out via <strong>amit217@yandex.com</strong>.</p>
 
